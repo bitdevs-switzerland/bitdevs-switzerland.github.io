@@ -1,21 +1,18 @@
 ---
 layout: post
-published: false
 type: socratic
-title: "Socratic Seminar TODO"
-meetup: "https://www.meetup.com/bitcoin-meetup-switzerland/"
+title: "Socratic Seminar Bern 1"
+meetup: "https://www.meetup.com/bitcoin-meetup-switzerland/events/295976217/"
 ---
-<!--- TODO: remove `published: false` when creating new socratic --->
-<!--- TODO: replace meetup link with https://www.meetup.com/bitcoin-meetup-switzerland/events/<##replace##>/ --->
 
 ## Announcements
 Please join us for our next Socratic Seminar. A special thank you to our
 sponsor [Bitcoin Association Switzerland](https://www.bitcoinassociation.ch/),
 for refreshments and event space.
 
-
 ## Presentation
--
+- Christian Decker: Blockstream
+- Oliver Gugger: Lightning Labs
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -30,23 +27,23 @@ for refreshments and event space.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-    - 
+  - 
 - [lnd PR Review Club](https://lnd.reviews/)
-    - 
+  - 
 - Bitcoin Core general developer meetings
-	- 
+  - 
 - Bitcoin Core wallet meetings
-	- 
+  - 
 - Lightning Specification meeting
-    - 
+  - 
 - Core Lightning Developer Call
-    - 
+  - 
 - dlc-specs meetings
-    - 
+  - 
 - Lightning specification meetings
-    - 
+  - 
 - Bitcoin Contracting Primitives Working Group
-	- 
+  - 
 
 ### Optech
 - 
