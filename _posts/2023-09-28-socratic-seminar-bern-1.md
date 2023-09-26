@@ -14,13 +14,26 @@ for refreshments and event space.
 - Christian Decker: Blockstream
 - Oliver Gugger: Lightning Labs
 
+## News
+ - [F2Pool received 20 BTC transaction fee and controversially returns it](https://twitter.com/satofishi/status/1701042302238724512)
+ - ZeroSync released a [demo](https://zerosync.org/demo/) & [repo](https://github.com/ZeroSync/header_chain) for header chain verification
+ - [UTXOracle](https://twitter.com/SteveSimple/status/1704864674431332503)
+ - [Latest Tor release supports HiddenServicePOW](https://gitlab.torproject.org/tpo/core/tor/-/commit/8b46d1c6ca20b8c99b979569c7432a97d8fc20a1)
+ 
+
+
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
-- 
+- [Full Specifications for Taproot Assets published](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021938.html)
+
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
+- [CLBOSS returns for automated channel management on CLN](https://lists.ozlabs.org/pipermail/c-lightning/2023-September/000239.html)
+- [Remotely control your lightning node from your favorite HSM](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004084.html)
+- [Practical PTLCs](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004088.html)
+- [Scaling LN with simple covenants](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004092.html)
+- [DoS: Fake Lightning Channels](https://morehouse.github.io/lightning/fake-channel-dos/)
 
 #### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
 -
