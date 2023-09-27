@@ -19,7 +19,6 @@ for refreshments and event space.
  - ZeroSync released a [demo](https://zerosync.org/demo/) & [repo](https://github.com/ZeroSync/header_chain) for header chain verification
  - [UTXOracle](https://twitter.com/SteveSimple/status/1704864674431332503)
  - [Latest Tor release supports HiddenServicePOW](https://gitlab.torproject.org/tpo/core/tor/-/commit/8b46d1c6ca20b8c99b979569c7432a97d8fc20a1)
- 
 
 
 ## Mailing Lists, Meetings and Bitcoin Optech
@@ -35,93 +34,32 @@ for refreshments and event space.
 - [Scaling LN with simple covenants](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004092.html)
 - [DoS: Fake Lightning Channels](https://morehouse.github.io/lightning/fake-channel-dos/)
 
-#### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
--
-
 ### Meetings
-- [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  - 
 - [lnd PR Review Club](https://lnd.reviews/)
-  - 
-- Bitcoin Core general developer meetings
-  - 
-- Bitcoin Core wallet meetings
-  - 
+  - https://lnd.reviews/6703
 - Lightning Specification meeting
-  - 
-- Core Lightning Developer Call
-  - 
-- dlc-specs meetings
-  - 
-- Lightning specification meetings
-  - 
-- Bitcoin Contracting Primitives Working Group
-  - 
+  - https://github.com/lightning/bolts/issues/1114
 
 ### Optech
-- 
+- https://bitcoinops.org/en/newsletters/2023/09/06/
 
 ## Network Data
--
-
-## CVEs and Research
-### Research
--
-
-### InfoSec
--
+- https://zerosync.org/demo/
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
--
-
-### [BDK](https://github.com/bitcoindevkit/bdk)
--
-
-### [HWI](https://github.com/bitcoin-core/HWI)
--
-
-### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
--
-
-### [libsecp](https://github.com/bitcoin-core/secp256k1)
--
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
--
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
--
-
-### [Core Lightning](https://github.com/ElementsProject/lightning)
--
-
-### [eclair](https://github.com/ACINQ/eclair/)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
+- https://github.com/bitcoin/bitcoin/pull/28492
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
--
+- https://github.com/lightningnetwork/lnd/pull/8026
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- https://github.com/bitcoin/bips/pull/1489
 
 ### [BLIPs](https://github.com/lightning/blips)
--
-
-### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
--
+- https://github.com/lightning/blips/pull/29
 
 ## New Releases
--
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Miscellaneous
--
+- https://github.com/lightningnetwork/lnd/releases/tag/v0.17.0-beta.rc5
+- https://github.com/ElementsProject/lightning/releases/tag/v23.08.1
+- https://bitbox.swiss/blog/bitbox-08-2023-marinelli-update/
