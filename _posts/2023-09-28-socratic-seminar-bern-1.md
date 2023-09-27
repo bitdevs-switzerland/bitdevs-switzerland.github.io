@@ -36,30 +36,30 @@ for refreshments and event space.
 
 ### Meetings
 - [lnd PR Review Club](https://lnd.reviews/)
-  - https://lnd.reviews/6703
+  - [PR 6703](https://lnd.reviews/6703)
 - Lightning Specification meeting
-  - https://github.com/lightning/bolts/issues/1114
+  - [Lightning Specification Meeting 2023/09/25](https://github.com/lightning/bolts/issues/1114)
 
 ### Optech
-- https://bitcoinops.org/en/newsletters/2023/09/06/
+- [Newsletter 2023/09/06](https://bitcoinops.org/en/newsletters/2023/09/06/)
 
 ## Network Data
-- https://zerosync.org/demo/
+- [ZeroSync Header Chain Verifier demo](https://zerosync.org/demo/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- https://github.com/bitcoin/bitcoin/pull/28492
+- [RPC: `descriptorprocesspsbt` returns hex encoded tx if complete](https://github.com/bitcoin/bitcoin/pull/28492)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
-- https://github.com/lightningnetwork/lnd/pull/8026
+- [lnwire: add wire types for dynamic commitment negotation messages](https://github.com/lightningnetwork/lnd/pull/8026)
 
 ### [BIPs](https://github.com/bitcoin/bips)
-- https://github.com/bitcoin/bips/pull/1489
+- [bip-tap: BIPs for the Taproot Assets Protocol](https://github.com/bitcoin/bips/pull/1489)
 
 ### [BLIPs](https://github.com/lightning/blips)
-- https://github.com/lightning/blips/pull/29
+- [blip-tap: initial bLIP draft for Taproot Asset Protocol channels](https://github.com/lightning/blips/pull/29)
 
 ## New Releases
-- https://github.com/lightningnetwork/lnd/releases/tag/v0.17.0-beta.rc5
-- https://github.com/ElementsProject/lightning/releases/tag/v23.08.1
-- https://bitbox.swiss/blog/bitbox-08-2023-marinelli-update/
+- [`lnd v0.17.0-beta.rc5`](https://github.com/lightningnetwork/lnd/releases/tag/v0.17.0-beta.rc5)
+- [`CLN v23.08.1`](https://github.com/ElementsProject/lightning/releases/tag/v23.08.1)
+- [BitBox 08.2023 Motterascio update](https://bitbox.swiss/blog/bitbox-08-2023-marinelli-update/)
