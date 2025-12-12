@@ -6,9 +6,9 @@ meetup: "https://luma.com/zfkatu9y"
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar at [PoW.space in Lugano](https://pow.space/). A special thank you to our
+Please join us for our next Socratic Seminar at [PoW.space in Lugano](https://pow.space/) from 5:00 PM. A special thank you to our
 sponsor [Plan B Network](https://www.planb.network) and [PoW.space](https://pow.space),
-for refreshments and event space.
+for the event space.
 
 **Location:** PoW.space, Lugano
 
