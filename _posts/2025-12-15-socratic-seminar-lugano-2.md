@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar Lugano 2"
-meetup: "https://www.meetup.com/bitcoin-meetup-switzerland/"
+meetup: "https://luma.com/zfkatu9y"
 ---
 
 ## Announcements
