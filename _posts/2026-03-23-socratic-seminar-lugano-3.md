@@ -21,6 +21,7 @@ Join our [Telegram group](https://t.me/+QVmFPp07Gtw5MGM8)!
 - [Open-Source Agents Need to Get Serious About Payments (Matt Corallo)](https://x.com/TheBlueMatt/status/2026667191475777727?s=20)
 - [Claw Cash: one CLI for BTC, Lightning, Arkade, and stablecoins for agentic payments (tierotiero)](https://x.com/tierotiero/status/2024129431149686885?s=20)
 - [Ark as a channel factory: compressed liquidity management](https://delvingbitcoin.org/t/ark-as-a-channel-factory-compressed-liquidity-management-for-improved-payment-feasibility/2179)
+- [BOLT 12 Payer Proofs: prove your Lightning payment without revealing everything (Vincenzo Palazzo)](https://x.com/PalazzoVincenzo/status/2008178728187375896)
 - [BOLT issue #1314: zero-amount BOLT12 offers](https://github.com/lightning/bolts/issues/1314)
 - [BOLT PR #1316: reject zero-amount offers](https://github.com/lightning/bolts/pull/1316)
 - [LDK PR #4333: configurable blinded paths for BOLT12 offers](https://github.com/lightningdevkit/rust-lightning/pull/4333)
