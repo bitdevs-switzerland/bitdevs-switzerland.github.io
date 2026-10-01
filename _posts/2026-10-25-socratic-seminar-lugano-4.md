@@ -6,7 +6,7 @@ title: "Socratic Seminar Lugano 4"
 
 ## Announcements
 
-Please join us for our next Socratic Seminar at [PoW.space in Lugano](https://pow.space) on Sunday from 5:00 PM. A special thank you to **PoW.space** for hosting us.
+Please join us for our next Socratic Seminar at [Plan B Expo - Via motta 7a in Lugano](https://maps.app.goo.gl/f7CyGJLzxq5ZDmdi8) on Sunday from 5:00 PM. 
 
 **Location:** [Contrada di Sassello 10, 6900 Lugano, Switzerland](https://maps.app.goo.gl/kNMFrJZXtPzKAzMf9)
 
