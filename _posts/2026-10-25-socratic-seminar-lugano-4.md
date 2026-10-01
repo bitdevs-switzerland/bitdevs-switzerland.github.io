@@ -6,9 +6,9 @@ title: "Socratic Seminar Lugano 4"
 
 ## Announcements
 
-Please join us for our next Socratic Seminar at [Plan B Expo - Via motta 7a in Lugano](https://maps.app.goo.gl/f7CyGJLzxq5ZDmdi8) on Sunday from 5:00 PM. 
+Please join us for our next Socratic Seminar at PlanB Expo in Lugano on Sunday October 25th from 5:00 PM. 
 
-**Location:** [Contrada di Sassello 10, 6900 Lugano, Switzerland](https://maps.app.goo.gl/kNMFrJZXtPzKAzMf9)
+**Location:** [PlanB Expo, Via Giuseppe Motta 7A, 6900 Lugano](https://maps.app.goo.gl/f7CyGJLzxq5ZDmdi8)
 
 **Hosts:** [Marco Argentieri](https://x.com/tierotiero), [Vincenzo Palazzo](https://x.com/PalazzoVincenzo) and [Jaromil](https://x.com/jaromil)
 
